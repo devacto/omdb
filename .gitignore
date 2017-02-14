@@ -3,3 +3,4 @@ coverage
 log/**
 .ruby-version
 config/prod.json
+dist
