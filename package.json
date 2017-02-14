@@ -8,6 +8,7 @@
     "start": "node server.js"
   },
   "author": "Victor Wibisono <hi@victor.codes>",
+  "repository": "https://github.com/devacto/omdb",
   "license": "MIT",
   "dependencies": {
     "express": "^4.12.2",
